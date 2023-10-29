@@ -40,9 +40,8 @@
 
     <distributionManagement>
         <repository>
-            <id>github</id>
-            <name>GitHub Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/arghyagiri/hotel-reservation-system-models</url>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
         </repository>
     </distributionManagement>
 
