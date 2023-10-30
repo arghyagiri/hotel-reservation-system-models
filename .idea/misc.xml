@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenCompilerTasksManager">
+    <option name="beforeCompileTasks">
+      <set>
+        <MavenCompilerTask>
+          <option name="goal" value="io.spring.javaformat:spring-javaformat-maven-plugin:0.0.39:apply" />
+          <option name="projectPath" value="$PROJECT_DIR$/../api-gateway/pom.xml" />
+        </MavenCompilerTask>
+        <MavenCompilerTask>
+          <option name="goal" value="io.spring.javaformat:spring-javaformat-maven-plugin:0.0.39:apply" />
+          <option name="projectPath" value="$PROJECT_DIR$/../service-discovery/pom.xml" />
+        </MavenCompilerTask>
+      </set>
+    </option>
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../notification-service/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../hrs-customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../service-discovery/pom.xml" />
       </list>
     </option>
   </component>
