@@ -10,6 +10,10 @@
         </MavenCompilerTask>
         <MavenCompilerTask>
           <option name="goal" value="io.spring.javaformat:spring-javaformat-maven-plugin:0.0.39:apply" />
+          <option name="projectPath" value="$PROJECT_DIR$/../hrs-customer-service/pom.xml" />
+        </MavenCompilerTask>
+        <MavenCompilerTask>
+          <option name="goal" value="io.spring.javaformat:spring-javaformat-maven-plugin:0.0.39:apply" />
           <option name="projectPath" value="$PROJECT_DIR$/../service-discovery/pom.xml" />
         </MavenCompilerTask>
       </set>
