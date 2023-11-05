@@ -5,6 +5,12 @@
     <file url="file://$PROJECT_DIR$/../api-gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../hrs-customer-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../hrs-customer-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hrs-hotel-management-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hrs-hotel-management-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hrs-payment-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hrs-payment-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hrs-reservation-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hrs-reservation-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../notification-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../service-discovery/src/main/java" charset="UTF-8" />
