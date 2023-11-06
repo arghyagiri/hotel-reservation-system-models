@@ -18,7 +18,15 @@
         </MavenCompilerTask>
         <MavenCompilerTask>
           <option name="goal" value="io.spring.javaformat:spring-javaformat-maven-plugin:0.0.39:apply" />
+          <option name="projectPath" value="$PROJECT_DIR$/../hrs-payment-service/pom.xml" />
+        </MavenCompilerTask>
+        <MavenCompilerTask>
+          <option name="goal" value="io.spring.javaformat:spring-javaformat-maven-plugin:0.0.39:apply" />
           <option name="projectPath" value="$PROJECT_DIR$/../hrs-reservation-service/pom.xml" />
+        </MavenCompilerTask>
+        <MavenCompilerTask>
+          <option name="goal" value="io.spring.javaformat:spring-javaformat-maven-plugin:0.0.39:apply" />
+          <option name="projectPath" value="$PROJECT_DIR$/../notification-service/pom.xml" />
         </MavenCompilerTask>
         <MavenCompilerTask>
           <option name="goal" value="io.spring.javaformat:spring-javaformat-maven-plugin:0.0.39:apply" />
